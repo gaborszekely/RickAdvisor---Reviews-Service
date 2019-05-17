@@ -8,9 +8,21 @@ This microservice consisted of the Reviews component which allows users to searc
 
 ## Table of Contents
 
-1. [Usage](#Usage)
-2. [Requirements](#requirements)
-3. [Development](#development)
+- [RickAdvisor - Reviews Microservice](#rickadvisor---reviews-microservice)
+  - [Table of Contents](#table-of-contents)
+  - [Getting Started](#getting-started)
+    - [Prerequisites](#prerequisites)
+    - [Installing](#installing)
+  - [Running the tests](#running-the-tests)
+    - [End to end testing](#end-to-end-testing)
+    - [Coding style](#coding-style)
+  - [Deployment](#deployment)
+  - [Built With](#built-with)
+  - [Contributing](#contributing)
+  - [Related Projects](#related-projects)
+  - [Versioning](#versioning)
+  - [Authors](#authors)
+  - [License](#license)
 
 ## Getting Started
 
