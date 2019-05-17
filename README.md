@@ -104,8 +104,8 @@ For details on our code of conduct, and the process for submitting pull requests
 
 ## Related Projects
 
-  - https://github.com/rickadviser/gabe-reviews-proxy
-  - https://github.com/rickadviser/gabe-header-service
+  - https://github.com/gaborszekely/RickAdvisor---Proxy-Server
+  - https://github.com/gaborszekely/RickAdvisor---Header-Service
   - https://github.com/rickadviser/Jared-About-Service
   - https://github.com/rickadviser/RickMorrisonService
   - https://github.com/rickadviser/Pete_Location
